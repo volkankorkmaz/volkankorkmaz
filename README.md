@@ -2,7 +2,7 @@
 
 ### ABOUT ME     
    
-- Full Stack Developer with more than 17 years experience in web and app
+- Full Stack Developer with more than 18 years experience in web and app
 - I graduated in Computer Science in 2005. I completed the Master of Business Administration (MBA) in 2016.
 - I'm a Dynamics CRM Consultant and Developer with over 12 years of experience.
 - I love solving problems and designing software components with long-term maintainability.
